@@ -1,0 +1,32 @@
+﻿using System;
+using System.Runtime.Intrinsics;
+using System.Security.Cryptography.X509Certificates;
+
+
+//Prerequisites
+
+public class Learning
+{
+    public delegate void Print(); //Change for different display types as need
+
+    public static void Main(string[] args)
+    {
+        //Setup
+       
+
+        //Result
+
+
+
+        //Solution
+
+
+
+    }
+
+    //Flexible display method
+    public static void Display()
+    {
+        //Display Code Here
+    }
+}
