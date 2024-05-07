@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\bin\Debug\net8.0\LeetCode_005.exe
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\bin\Debug\net8.0\LeetCode_005.deps.json
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\bin\Debug\net8.0\LeetCode_005.runtimeconfig.json
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\bin\Debug\net8.0\LeetCode_005.dll
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\bin\Debug\net8.0\LeetCode_005.pdb
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.AssemblyInfo.cs
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.sourcelink.json
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.dll
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\refint\LeetCode_005.dll
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.pdb
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\LeetCode_005.genruntimeconfig.cache
+C:\Users\Austin\Desktop\Learning\LeetCode_005\LeetCode_005\obj\Debug\net8.0\ref\LeetCode_005.dll
